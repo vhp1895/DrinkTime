@@ -1,0 +1,314 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 10.79317,
+               "lng" : 106.709571
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.79457802989272,
+                  "lng" : 106.7109378798927
+               },
+               "southwest" : {
+                  "lat" : 10.79187837010728,
+                  "lng" : 106.7082382201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "5737d33fc3f2cf8e42717f145af14e564add5ec1",
+         "name" : "Black Coffee & Beer",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103705580435370290510/photos\"\u003eAnh Tú Bùi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAIs1NPl60I15eUaq6Um0Fo_eLQhrBg30N951TdabTIhZ1x06rJQL7HxSk-NYnxrBsdL2O8HxJ4h6ZVomw95bzCNmY1trFH-pVtRN-0eTFZdRQHTnocVsbjKLLu5QTT5PzEhA-i0f0Skn2-MgC6OrhpO-FGhQXMGboXBx9bRo9EzZQsvfVcsbYRg",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJTYNDOrIodTERHHmjUAvuzTc",
+         "plus_code" : {
+            "compound_code" : "QPV5+7R phường 19, Bình Thạnh, Ho Chi Minh City, Vietnam",
+            "global_code" : "7P28QPV5+7R"
+         },
+         "rating" : 5,
+         "reference" : "ChIJTYNDOrIodTERHHmjUAvuzTc",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "8 Đường Ngô Tất Tố"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 10.7886429,
+               "lng" : 106.6981128
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.79006652989272,
+                  "lng" : 106.6993828298927
+               },
+               "southwest" : {
+                  "lat" : 10.78736687010728,
+                  "lng" : 106.6966831701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "2d60f18fc1028941fec2dd98c7d4d0ed84c9d057",
+         "name" : "Belgo - Belgian Craft Beer Brewery",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102387586962876779198/photos\"\u003equoc nguyen\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA0MCCL_ESfN6sUelX0xXbbP9Tr3A-CJDVtaD1L2pJ5Y9O4awRQsNtUMP93cMvJJ2lBwp2NOV_duG2CqFYbyIa89RWg7tw0M8_jAaFMDj_HfKknJCz2LzWzMuac9IojfnPEhCiLs_wfal6mL9YLfZ39IT0GhRK6GP0t7U_a1td-JXA7Xq5VV9qog",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJPc2eOjUvdTERuomMddcaIIY",
+         "plus_code" : {
+            "compound_code" : "QMQX+F6 Da Kao, District 1, Ho Chi Minh City, Vietnam",
+            "global_code" : "7P28QMQX+F6"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJPc2eOjUvdTERuomMddcaIIY",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "159A Đường Nguyễn Văn Thủ"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 10.7894811,
+               "lng" : 106.7105236
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.79083092989272,
+                  "lng" : 106.7118734298927
+               },
+               "southwest" : {
+                  "lat" : 10.78813127010728,
+                  "lng" : 106.7091737701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "73c5d93640281742b664ffc881a9d6dbe5a78211",
+         "name" : "Shury's Craft beer Bar",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1534,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114887279746105905561/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA-IbTqVvv29C23fXBbIZlg58_5Z9VwLTHuxVDLFqgepTBXVDW8cgCO6FDb5kOOTBxqMTlPoSZdL-E3dLZ4cSJFVuppOWhlOoXPhhs9GdQrxyJhiGmTTCdw53XLMqk19XfEhBlGUHPmCETkWXxvsS-zygLGhT9gcStlUrFJT0exyX3V7W0ZziRRw",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJnaHhFeovdTERWyzruLyzh54",
+         "plus_code" : {
+            "compound_code" : "QPQ6+Q6 phường 19, Bình Thạnh, Ho Chi Minh City, Vietnam",
+            "global_code" : "7P28QPQ6+Q6"
+         },
+         "rating" : 5,
+         "reference" : "ChIJnaHhFeovdTERWyzruLyzh54",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "Nguyễn Hữu Cảnh, Hồ Chí Minh 19G"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 10.7904741,
+               "lng" : 106.7014091
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.79182392989272,
+                  "lng" : 106.7027589298927
+               },
+               "southwest" : {
+                  "lat" : 10.78912427010728,
+                  "lng" : 106.7000592701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "id" : "7ba3f249618efa5f5b7b5e8e75b864e8510ca4a9",
+         "name" : "The Hangout Grill & Beer",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111523506360621240353/photos\"\u003eNHD\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAADj-uFRdwKCMcmDOr0IQwN39khjIbKRoF5D-uLZRl90BlzEhYOzOIDByjJRUxfdvoOxS4QtyfPjyy08IIFfkxQFpfgVvMSNKTKtUyyvBm8ULXnbluY1fCs8P3UhkdeGHEEhA1BA-UiXiTM9HljreiuviwGhRDBoijyVfPtliMSp0J7If-nNG3Gw",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJOW0KQAwpdTERL_ToAb1Gy4s",
+         "plus_code" : {
+            "compound_code" : "QPR2+5H Da Kao, District 1, Ho Chi Minh City, Vietnam",
+            "global_code" : "7P28QPR2+5H"
+         },
+         "rating" : 2.6,
+         "reference" : "ChIJOW0KQAwpdTERL_ToAb1Gy4s",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "point_of_interest", "establishment" ],
+         "vicinity" : "24 Nguyễn Đình Chiểu"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 10.8036851,
+               "lng" : 106.7345225
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.80505882989272,
+                  "lng" : 106.7358679298927
+               },
+               "southwest" : {
+                  "lat" : 10.80235917010728,
+                  "lng" : 106.7331682701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "8bf7e2e043232ac038169614c8548a1afaef44f1",
+         "name" : "BiaCraft",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107337604210042104236/photos\"\u003eM Yamada\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAmBXKDszFcGiL3OPLLPfONqiYNt_UCHy6Rx81f3JPQ8NsRhUcwkWnmF7qwgQaaE00rHDKmdilSXdF46tMgkkVxKyAW4cAfhNbU_y-qZCYfHij1qia7UL-YBK9lPY4fdkoEhClRzgOvmND4XRmhmV5kZpaGhR4p2PDmBwQy-x6MwU1uJc06YuCsg",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJAW1U0xsmdTERe0yKuDomvyY",
+         "plus_code" : {
+            "compound_code" : "RP3M+FR Thảo Điền, District 2, Ho Chi Minh City, Vietnam",
+            "global_code" : "7P28RP3M+FR"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJAW1U0xsmdTERe0yKuDomvyY",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "90 Xuân Thủy"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 10.808865,
+               "lng" : 106.715089
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.80992697989272,
+                  "lng" : 106.7162781298927
+               },
+               "southwest" : {
+                  "lat" : 10.80722732010728,
+                  "lng" : 106.7135784701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "c5750bc0deb218fa86e73c7bb8937b9d662db8f0",
+         "name" : "Sườn Cọng BBQ & Beer",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101104513938399809716/photos\"\u003eClover Elric\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAADfNg6Ovw81eAlHq-W3U-2WAnm6xkktH0V6NcTIJ7lpCPJrVWLVZm12ybz_ecJIEABDK5DZGgc9Yv2XGWHwFedTUGzRA7WlA8UnmPKA3Hx90rMcSJvQlHZtWU91Ebi9BsEhD0FUgrCGbxRHy5nSMf2ERMGhT3vKD1XkSLvTcRBWyx2sym9ObULQ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJw3SQ9qIodTER_xyEzvNVUWc",
+         "plus_code" : {
+            "compound_code" : "RP58+G2 Phường 25, Bình Thạnh, Ho Chi Minh City, Vietnam",
+            "global_code" : "7P28RP58+G2"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJw3SQ9qIodTER_xyEzvNVUWc",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "58A Ung Văn Khiêm"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 10.8032245,
+               "lng" : 106.7316218
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.80457432989272,
+                  "lng" : 106.7329716298927
+               },
+               "southwest" : {
+                  "lat" : 10.80187467010728,
+                  "lng" : 106.7302719701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "31b1a74f87bd20a1ae50d824877fff6b62c02123",
+         "name" : "Hell Bull BBQ & Beer",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 853,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117498353369570607288/photos\"\u003eZbyszek Dabrowski\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAnxIN3yoCzf5nXT_K0APioNwL3HIgBsBOlRXT7xoqbbJLOTpzhbbQ2YmzYHrhOvmDKzqj63ngZh0DC37NFgs6Hml0SDxfvIIAWgu9eFzBHGCQktKTgX9p3yJ8Mgu8TrLXEhAPzcojRrsb-7WTw06qYWM0GhTXL9GWfVwCstVJMCIiZ307_WQXoA",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJQSVj0BsmdTER1qBcCh3CJkU",
+         "plus_code" : {
+            "compound_code" : "RP3J+7J Thảo Điền, District 2, Ho Chi Minh City, Vietnam",
+            "global_code" : "7P28RP3J+7J"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJQSVj0BsmdTER1qBcCh3CJkU",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "41 Xuân Thủy"
+      }
+   ],
+   "status" : "OK"
+}
